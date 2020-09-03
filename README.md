@@ -1,7 +1,7 @@
 ### Hello everyone~!😀
 <p>
     <em>
-        &emsp;▪ I am <b>web</b> developer.💻<br>
+        &emsp;▪ I am a <b>web</b> developer.💻<br>
         &emsp;▪ I am studying <b>JavaScript</b> and <b>Java</b>.✏<br>
         &emsp;▪ I am mainly focusing on GIS technology, but I am also interested in new technologies.🌎<br>
       </em>
