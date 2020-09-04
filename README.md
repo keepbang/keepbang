@@ -1,13 +1,13 @@
 ### Hello everyone~!😀
-<!--
+
 <p>
     <em>
-        &emsp;▪ <b>Web</b> developer.💻<br>
-        &emsp;▪ Studying <b>JavaScript</b> and <b>Java</b>.✏<br>
-        &emsp;▪ Mainly focusing on GIS technology, but I am also interested in new technologies.🌎<br>
+        &emsp;▪ 💻Web developer.(<b>Java, JS</b>)<br>
+        &emsp;▪ 📖<b>Spring</b> / <b>React</b> / <b>Node</b> / <b>Vanilla JS</b> / <b>RDBMS</b>.<br>
+        &emsp;▪ 🌍Focusing on GIS tech and New Tech.🔥<br>
       </em>
 </p>
-
+<!--
 **keepbang/keepbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
