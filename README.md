@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+stack
+rdbms : postgresql, tibero
+shp2pgsql로 shp파일 작업 경험
+openlayers를 활용하여 지도 제어 및 데이터 표출 경험
+qgis사용하여 shp파일 및 지도 데이터 제어 경험
 -->
