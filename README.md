@@ -26,4 +26,5 @@ rdbms : postgresql, tibero
 shp2pgsql로 shp파일 작업 경험
 openlayers를 활용하여 지도 제어 및 데이터 표출 경험
 qgis사용하여 shp파일 및 지도 데이터 제어 경험
+centos 7 linux VM 운영 경험 및 여러 application설치 경험
 -->
