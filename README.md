@@ -7,3 +7,5 @@
         &emsp;▪ 🌍Focusing on GIS tech and New Tech.🔥<br>
       </em>
 </p>
+
+### [Learning List Link](https://github.com/keepbang/keepbang/blob/master/Llearning%20List.md)
