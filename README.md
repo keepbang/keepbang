@@ -8,4 +8,6 @@
       </em>
 </p>
 
+[Learning List Link](https://github.com/keepbang/keepbang/blob/master/Llearning%20List.md)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keepbang&theme=gruvbox&layout=compact)](https://lagmental.net/pages/notme.html)
