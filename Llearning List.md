@@ -20,5 +20,5 @@
 * [4단계 - AWS로 서비스 만들기](https://github.com/keepbang/infra-subway-deploy)
 * [5단계 - 인수 테스트 기반 TDD](https://github.com/keepbang/atdd-subway-service)
 * [6단계 - 서비스 진단하기](https://github.com/keepbang/infra-subway-monitoring)
-* [7단계 - 레거시 코드 리팩터링]
+* [7단계 - 레거시 코드 리팩터링](https://github.com/keepbang/jwp-refactoring)
 * [8단계 - 안정적인 서비스 만들기]
